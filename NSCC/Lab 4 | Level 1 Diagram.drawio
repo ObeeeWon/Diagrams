@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T18:41:17.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BTlMoLUv1bLBTzcINT1i" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T18:42:25.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="1J3frBzQBVyg3b3q38D6" version="22.1.21" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="635" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -87,21 +87,21 @@
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-48" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="979" y="400" as="sourcePoint" />
-            <mxPoint x="1059" y="400" as="targetPoint" />
+            <mxPoint x="310" y="540" as="sourcePoint" />
+            <mxPoint x="390" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-49" value="daily receiving&#xa;report" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="1000" y="370" width="30" height="20" as="geometry" />
+          <mxGeometry x="331" y="510" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-50" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1063" y="400" as="sourcePoint" />
-            <mxPoint x="1143" y="400" as="targetPoint" />
+            <mxPoint x="394" y="540" as="sourcePoint" />
+            <mxPoint x="474" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-51" value="daily issue&#xa;report" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="1084" y="370" width="30" height="20" as="geometry" />
+          <mxGeometry x="415" y="510" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-52" value="employees" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="204.2" width="100" height="30" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="800" y="280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-55" value="warehouse manager" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="1059" y="445.77" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="585.77" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-59" value="2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="140" height="130" as="geometry" />
