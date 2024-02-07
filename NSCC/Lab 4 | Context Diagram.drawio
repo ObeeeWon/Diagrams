@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T17:55:42.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tWg-4BdROnEKdSQukGMz" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T17:57:05.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="N4oWOFjk1lJwvDQPSFNB" version="22.1.21" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="934" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="l346gy1Z0WuWglJ_ExZx-7" value="Inventory&lt;br style=&quot;font-size: 18px;&quot;&gt;System" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontSize=18;" vertex="1" parent="l346gy1Z0WuWglJ_ExZx-5">
           <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="l346gy1Z0WuWglJ_ExZx-9" value="Employees" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l346gy1Z0WuWglJ_ExZx-10" value="store clerk" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l346gy1Z0WuWglJ_ExZx-11" value="supplier" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l346gy1Z0WuWglJ_ExZx-12" value="warehouse manager" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
