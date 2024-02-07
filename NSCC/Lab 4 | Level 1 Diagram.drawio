@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T18:49:29.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KR66y5Y2X-HfsCphPXiB" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T18:50:48.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TewJ-R8S0YxW1FxJIcI5" version="22.1.21" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1059" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="660" y="60" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-6" value="supplier" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="670" y="358.67" width="120" height="90" as="geometry" />
+          <mxGeometry x="760" y="356.67" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-7" value="warehouse manager" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="670" y="474.44" width="120" height="90" as="geometry" />
@@ -57,7 +57,7 @@
             <mxPoint x="280" y="320" as="sourcePoint" />
             <mxPoint x="360" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="230" />
+              <mxPoint x="690" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -82,14 +82,14 @@
         <mxCell id="WopC4PYd7FhQynQ7huu4-45" value="purchase&#xa;orders" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
           <mxGeometry x="570" y="478.67" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WopC4PYd7FhQynQ7huu4-46" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=-0.04;exitY=0.144;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.026;entryY=0.209;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WopC4PYd7FhQynQ7huu4-6" target="WopC4PYd7FhQynQ7huu4-60">
+        <mxCell id="WopC4PYd7FhQynQ7huu4-46" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=-0.001;exitY=0.759;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WopC4PYd7FhQynQ7huu4-6" target="WopC4PYd7FhQynQ7huu4-60">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="965" y="518.67" as="sourcePoint" />
-            <mxPoint x="1045" y="518.67" as="targetPoint" />
+            <mxPoint x="661.5600000000001" y="425.22000000000014" as="sourcePoint" />
+            <mxPoint x="530.0000000000001" y="424.9960000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-47" value="new inventory&#xa;items" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="580" y="378.67" width="30" height="20" as="geometry" />
+          <mxGeometry x="640" y="386.67" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-48" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;exitX=0.718;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.857;entryY=-0.219;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WopC4PYd7FhQynQ7huu4-3" target="WopC4PYd7FhQynQ7huu4-55">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           <mxGeometry x="420" y="483.67" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WopC4PYd7FhQynQ7huu4-65" value="backorder &#xa;request" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="700" y="308.67" width="30" height="10" as="geometry" />
+          <mxGeometry x="630" y="299" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
