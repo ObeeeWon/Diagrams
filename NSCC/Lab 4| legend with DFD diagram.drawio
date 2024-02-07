@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T17:50:04.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bxsFe7vXjC20Dcqp3e9s" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T17:51:30.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rY5pw3s7KuiXzUMoFTmO" version="22.1.21" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,21 +24,12 @@
         </mxCell>
         <mxCell id="36MPgb-XZIYfhogKowGa-8" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="416" y="479.23" as="sourcePoint" />
-            <mxPoint x="496" y="479.23" as="targetPoint" />
+            <mxPoint x="416" y="490" as="sourcePoint" />
+            <mxPoint x="496" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="36MPgb-XZIYfhogKowGa-9" value="supply&#xa;requisitions" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="437" y="449.23" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="36MPgb-XZIYfhogKowGa-10" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="416" y="509.23" as="sourcePoint" />
-            <mxPoint x="496" y="509.23" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="36MPgb-XZIYfhogKowGa-11" value="purchase&#xa;orders" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="437" y="479.23" width="30" height="20" as="geometry" />
+          <mxGeometry x="437" y="460" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="36MPgb-XZIYfhogKowGa-12" value="employees" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="411" y="555" width="100" height="30" as="geometry" />
