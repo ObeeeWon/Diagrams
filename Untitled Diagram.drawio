@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="UYcbzgBfbhXa2ejQzc8r">
-    <mxGraphModel>
+    <mxGraphModel dx="1754" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-18" value="Successful Study and Life" style="swimlane;fontSize=22;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="400" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-19" value="1. PM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="65" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-20" value="2. C++" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="60" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-21" value="3. Java" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="60" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-22" value="4. Kotlin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="55" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-23" value="6. Comm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="55" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-24" value="5. PHP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="60" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-25" value="7. IELTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="210" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-26" value="8. Driver&#39;s Instructor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="170" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-27" value="9. Research Assist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="175" y="160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-28" value="10. Workout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="205" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-29" value="11. Cooking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="205" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-30" value="12. Networking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="QVXxqSFfh_QtaiiH3YP3-18">
+          <mxGeometry x="195" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-33" value="1.1 Finish labs&lt;div&gt;1.2 Pass quizes&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVXxqSFfh_QtaiiH3YP3-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QVXxqSFfh_QtaiiH3YP3-19" target="QVXxqSFfh_QtaiiH3YP3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
