@@ -11,7 +11,7 @@
           <mxGeometry x="417.5" y="505" width="257.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="f37kgnbIqV4t049c7P4G-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Entity-Relationship Diagram&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="160" width="390" height="60" as="geometry" />
+          <mxGeometry x="351.25" y="200" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f37kgnbIqV4t049c7P4G-4" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;InventoryLog&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;LogId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;br&gt;FK2&lt;/td&gt;&lt;td&gt;UserID&lt;br&gt;ItemID&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Barcode_old&lt;br&gt;Barcode_new&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;Quantity_old&lt;br&gt;Quantity_new&lt;br&gt;LowStockAlert_old&lt;br&gt;LowStockAlert_new&lt;br&gt;Location_old&lt;br&gt;Location_new&lt;br&gt;OperationTime_old&lt;br&gt;OperationTime_new&lt;br&gt;OperationTime(DATA+Time)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="250" height="240" as="geometry" />
